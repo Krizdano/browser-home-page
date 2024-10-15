@@ -30,7 +30,7 @@ input[type=text] {
 
 html {
     align-items: center;
-    background-color: #f7eee4;
+    background: linear-gradient(to right, #9332d7, #6c25c4, #3b2264);
     color: #c5c8c6;
     display: flex;
     font: 22px/1 "Inconsolata", monospace;
