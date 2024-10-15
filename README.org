@@ -1,2 +1,4 @@
 #+TITLE: A minimal and custom startup page for my browser.
 
+#+CAPTION: preview
+[[file:./preview.png]]
